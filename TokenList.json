@@ -1,6 +1,6 @@
 {
     "name": "Aries",
-    "logoURI": "https://www.xxxxxxxxxxxx/logo.png",
+    "logoURI": "https://ariesswap.github.io/favicon.png",
     "keywords": [
         "defi",
         "DEFI",
@@ -14,7 +14,7 @@
         "name": "AriesSwap",
         "symbol": "ARIES",
         "decimals": 9,
-        "logoURI": "https://www.xxxxxxxxxxxx/logo.png"
+        "logoURI": "https://ariesswap.github.io/favicon.png"
         },
         {
           "chainId": 4,
@@ -22,7 +22,7 @@
           "name": "wrapped ARIES",
           "symbol": "WARIES",
           "decimals": 18,
-          "logoURI": "https://www.xxxxxxxxxxxx/logo.png"
+          "logoURI": "https://ariesswap.github.io/favicon.png"
           },
           {
             "chainId": 1,
@@ -30,7 +30,7 @@
             "name": "AriesSwap",
             "symbol": "ARIES",
             "decimals": 9,
-            "logoURI": "https://www.xxxxxxxxxxxx/logo.png"
+            "logoURI": "https://ariesswap.github.io/favicon.png"
             },
             {
               "chainId": 1,
@@ -38,7 +38,7 @@
               "name": "wrapped ARIES",
               "symbol": "WARIES",
               "decimals": 18,
-              "logoURI": "https://www.xxxxxxxxxxxx/logo.png"
+              "logoURI": "https://ariesswap.github.io/favicon.png"
               },
               {
                 "chainId": 5,
@@ -46,7 +46,7 @@
                 "name": "AriesSwap",
                 "symbol": "ARIES",
                 "decimals": 9,
-                "logoURI": "https://www.xxxxxxxxxxxx/logo.png"
+                "logoURI": "https://ariesswap.github.io/favicon.png"
                 },
                 {
                   "chainId": 5,
@@ -54,7 +54,7 @@
                   "name": "wrapped ARIES",
                   "symbol": "WARIES",
                   "decimals": 18,
-                  "logoURI": "https://www.xxxxxxxxxxxx/logo.png"
+                  "logoURI": "https://ariesswap.github.io/favicon.png"
                   }
 
       ],
