@@ -1,83 +1,81 @@
 {
-    "name": "Aries",
-    "logoURI": "https://ariesswap.github.io/favicon.png",
-    "keywords": [
-        "defi",
-        "DEFI",
-        "yield"
-      ],
-      "timestamp": "2020-09-01T01:40:34.305Z",
-      "tokens": [
-        {
-        "chainId": 4,
-        "address": "0x217A0227318bB31874F3D623a82D03fE3CeE6e09",
-        "name": "AriesSwap",
-        "symbol": "ARIES",
-        "decimals": 9,
-        "logoURI": "https://ariesswap.github.io/favicon.png"
-        },
-        {
-          "chainId": 4,
-          "address": "0xDF7530296eD38fc763d7C5951674310f78114c28",
-          "name": "wrapped ARIES",
-          "symbol": "WARIES",
-          "decimals": 18,
-          "logoURI": "https://ariesswap.github.io/favicon.png"
-          },
-          {
-            "chainId": 1,
-            "address": "0x217A0227318bB31874F3D623a82D03fE3CeE6e09",
-            "name": "AriesSwap",
-            "symbol": "ARIES",
-            "decimals": 9,
-            "logoURI": "https://ariesswap.github.io/favicon.png"
-            },
-            {
-              "chainId": 1,
-              "address": "0xDF7530296eD38fc763d7C5951674310f78114c28",
-              "name": "wrapped ARIES",
-              "symbol": "WARIES",
-              "decimals": 18,
-              "logoURI": "https://ariesswap.github.io/favicon.png"
-              },
-              {
-                "chainId": 5,
-                "address": "0x217A0227318bB31874F3D623a82D03fE3CeE6e09",
-                "name": "AriesSwap",
-                "symbol": "ARIES",
-                "decimals": 9,
-                "logoURI": "https://ariesswap.github.io/favicon.png"
-                },
-                {
-                  "chainId": 5,
-                  "address": "0xDF7530296eD38fc763d7C5951674310f78114c28",
-                  "name": "wrapped ARIES",
-                  "symbol": "WARIES",
-                  "decimals": 18,
-                  "logoURI": "https://ariesswap.github.io/favicon.png"
-                  },
-                  {
-                    "chainId": 4,
-                    "address": "0x12d73BE3fC82ef66c4CC5c391968350784a710dF",
-                    "name": "LibraSwap",
-                    "symbol": "LIBRA",
-                    "decimals": 9,
-                    "logoURI": "https://ariesswap.github.io/Libra.png"
-                    },
-                    {
-                      "chainId": 5,
-                      "address": "0x12d73BE3fC82ef66c4CC5c391968350784a710dF",
-                      "name": "LibraSwap",
-                      "symbol": "LIBRA",
-                      "decimals": 9,
-                      "logoURI": "https://ariesswap.github.io/Libra.png"
-                      }
-                  
-
-      ],
-      "version": {
-        "major": 0,
-        "minor": 0,
-        "patch": 0
-      }
+  "name": "Aries",
+  "logoURI": "https://ariesswap.github.io/favicon.png",
+  "keywords": [
+    "defi",
+    "DEFI",
+    "yield"
+  ],
+  "timestamp": "2020-09-01T01:40:34.305Z",
+  "tokens": [
+    {
+      "chainId": 4,
+      "address": "0x217A0227318bB31874F3D623a82D03fE3CeE6e09",
+      "name": "AriesSwap",
+      "symbol": "ARIES",
+      "decimals": 9,
+      "logoURI": "https://ariesswap.github.io/favicon.png"
+    },
+    {
+      "chainId": 4,
+      "address": "0xDF7530296eD38fc763d7C5951674310f78114c28",
+      "name": "wrapped ARIES",
+      "symbol": "WARIES",
+      "decimals": 18,
+      "logoURI": "https://ariesswap.github.io/favicon.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0x217A0227318bB31874F3D623a82D03fE3CeE6e09",
+      "name": "AriesSwap",
+      "symbol": "ARIES",
+      "decimals": 9,
+      "logoURI": "https://ariesswap.github.io/favicon.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0xDF7530296eD38fc763d7C5951674310f78114c28",
+      "name": "wrapped ARIES",
+      "symbol": "WARIES",
+      "decimals": 18,
+      "logoURI": "https://ariesswap.github.io/favicon.png"
+    },
+    {
+      "chainId": 5,
+      "address": "0x217A0227318bB31874F3D623a82D03fE3CeE6e09",
+      "name": "AriesSwap",
+      "symbol": "ARIES",
+      "decimals": 9,
+      "logoURI": "https://ariesswap.github.io/favicon.png"
+    },
+    {
+      "chainId": 5,
+      "address": "0xDF7530296eD38fc763d7C5951674310f78114c28",
+      "name": "wrapped ARIES",
+      "symbol": "WARIES",
+      "decimals": 18,
+      "logoURI": "https://ariesswap.github.io/favicon.png"
+    },
+    {
+      "chainId": 4,
+      "address": "0x12d73BE3fC82ef66c4CC5c391968350784a710dF",
+      "name": "LibraSwap",
+      "symbol": "LIBRA",
+      "decimals": 9,
+      "logoURI": "https://ariesswap.github.io/Libra.png"
+    },
+    {
+      "chainId": 5,
+      "address": "0x12d73BE3fC82ef66c4CC5c391968350784a710dF",
+      "name": "LibraSwap",
+      "symbol": "LIBRA",
+      "decimals": 9,
+      "logoURI": "https://ariesswap.github.io/Libra.png"
+    }
+  ],
+  "version": {
+    "major": 0,
+    "minor": 0,
+    "patch": 1
   }
+}
